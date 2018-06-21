@@ -142,3 +142,16 @@ footer .title {
   padding-right: 25px;
   border-right: 2px solid white;
 }
+.story {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Georgia;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+}
