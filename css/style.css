@@ -10,6 +10,7 @@ header {
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
+  top: 0px;
 }
 .logo {
 display: flex;
@@ -21,7 +22,6 @@ padding-left: 30px;
 }
 header nav {
 padding-right: 40px;
-top: 0px;
 }
 nav span {
   display: inline-block;
