@@ -89,12 +89,12 @@ div {
   font-size: 30px;
   color: white;
 }
-p.narrative {
+  p.narrative {
   font-family: Georgia;
   font-size: 17px;
   color: black
 }
-.news-bites {
+.news-bites h3 {
   font-size: 16px;
   font-weight: bold;
 }
