@@ -64,6 +64,7 @@ div {
   font-weight: bold;
   font-size: 40px;
   color: white;
+  height: 300px;
 }
 .fall.image-content {
   background-image: url(../images/img-story-2.png);
