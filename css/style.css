@@ -38,19 +38,19 @@ div {
   width: 1232px;
   margin: 0 auto 78px auto;
 }
-.column.large {
+.column-large {
   display: flex;
   flex-direction: column;
   width: 630px;
   margin-right: 32px;
 }
-.column.medium {
+.column-medium {
   display: flex;
   flex-direction: column;
   width: 300px;
   margin-right: 32px;
 }
-.column.small {
+.column-small {
   display: flex;
   flex-direction: column;
   width: 240px;
