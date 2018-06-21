@@ -57,7 +57,7 @@ div {
   margin-right: 32px;
 }
 .image-content {
-  background-image: url(../images/img-story-main.png);
+  background-image: url(/images/img-story-main.png);
   display: flex;
 }
 .fall.image-content {
