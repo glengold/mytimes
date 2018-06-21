@@ -30,3 +30,21 @@ a {
 div {
   border: 1px solid #000000;
 }
+.content {
+  display: flex;
+}
+.column.large {
+  display: flex;
+  flex-direction: column;
+  width: 630px;
+}
+.column.medium {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.column.small {
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+}
