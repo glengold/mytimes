@@ -100,7 +100,6 @@ div {
 }
 .news-bites .bite {
   margin: auto;
-  border-top: 1px solid black;
   border-bottom: 1px solid black;
   background-color: WhiteSmoke;
   font-family: Verdana;
@@ -142,4 +141,11 @@ h2 {
   font-size: 30px;
   font-weight: bold;
   font-style: normal;
+}
+footer nav {
+  display: inline-block;
+  padding-left: 25px;
+}
+.stories {
+  display: flex;
 }
