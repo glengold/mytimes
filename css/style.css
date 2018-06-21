@@ -21,6 +21,7 @@ padding-left: 30px;
 }
 header nav {
 padding-right: 40px;
+top: 0px;
 }
 nav span {
   display: inline-block;
